@@ -10,7 +10,6 @@ Essa é a solução para o [desafio do QR code](https://www.frontendmentor.io/ch
   - [Projetos seguintes](#projetos-seguintes)
   - [Recursos](#recursos)
 - [Autora](#autora)
-- [Acknowledgments](#acknowledgments)
 
 
 
